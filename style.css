@@ -122,7 +122,11 @@ padding-bottom: 4%;
   }
 
 .box2{
-  float:none ;
+  display: block;
+  font-size: 10px;
+}
+.box2 img{
+  width: 100%;
 }
 
 }
